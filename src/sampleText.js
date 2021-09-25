@@ -1,0 +1,2 @@
+export const sampleText =
+  '# Largest heading\n## Second largest heading \n### Smallest heading\n \nParagraphs are separated\nby empty line.\n\nLeft two spaces at the end of a line to \ngo to the line.\n\nAttributes *italic*, **bold**, \n`monospace`, ~~strikethrough~~.\n\nUnordered list:\n\n  * apples\n  * oranges\n  * pineapples\n\nOrdered lists:\n\n  1. ham\n  2. pickle\n  3. bread\n\n *[Heyimlulu](https://github.com/Heyimlulu)* \n\n Link : https://google.com/ \n\n```\n console.log("hello world"); \n``` ';
